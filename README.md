@@ -1,5 +1,5 @@
 <div align="center">
-👋 Olá, eu sou Andresso Viana Gaspar
+👋 Olá, eu sou Andresson Viana Gaspar
 💻 Técnico em Informática • Desenvolvedor em Formação • Python Enthusiast
 
 "Sempre aprendendo, sempre evoluindo."
