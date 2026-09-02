@@ -28,7 +28,7 @@ Contribuir com projetos open source.
 Conquistar minha primeira oportunidade como desenvolvedor.
 📈 Estatísticas
 
-Substitua SEU_USUARIO pelo seu usuário do GitHub.
+Uese_GasparAnd.
 
 🌟 Um pouco sobre mim
 
