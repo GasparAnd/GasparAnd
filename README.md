@@ -100,14 +100,21 @@ Projetos envolvendo **programação, eletrônica, sensores e automação**.
 
 ---
 
-## 🏆 GitHub
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uese_GasparAnd&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
+
+<img src="https://komarev.com/ghpvc/?username=Uese_GasparAnd&label=PROFILE%20VIEWS&color=A855F7&style=for-the-badge"/>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uese_GasparAnd&label=PROFILE%20VIEWS&color=A855F7&style=for-the-badge"/>
+
+💻 Desenvolvendo projetos  
+🐍 Estudando Python  
+☕ Aprendendo Java  
+🎮 Explorando Game Development  
+
 </p>
 
 ---
