@@ -1,44 +1,89 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     ANIMATED HEADER                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BANNER ANIMADO -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=230&section=header&text=ANDRESSON%20VIANA%20GASPAR&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Andresson%20Viana%20Gaspar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- TERMINAL ANIMATION -->
+<!-- ANIMAÇÃO DE TEXTO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=%24+Hello%2C+World!+%F0%9F%91%8B;%24+Initializing+Andresson.exe...;%24+Developer+Mode%3A+ONLINE+%F0%9F%9F%A2;%24+Python+%7C+Java+%7C+JavaScript;%24+Building+ideas+into+code+%F0%9F%92%BB;%24+Anime+%7C+Games+%7C+Technology+%F0%9F%8E%AE;%24+Always+learning.+Always+evolving.+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Andresson+Viana+Gaspar;T%C3%A9cnico+em+Inform%C3%A1tica;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Python+Enthusiast;Sempre+aprendendo%2C+sempre+evoluindo." />
 </p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-# 👾 `> whoami`
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                 ANDRESSON VIANA GASPAR               │
-├──────────────────────────────────────────────────────┤
-│ 💻 Developer in Training                             │
-│ 🎓 Technical Student in Informatics                  │
-│ 🐍 Python Enthusiast                                 │
-│ ☕ Java Developer in Training                        │
-│ 🎮 Gamer & Geek                                      │
-│ 🚀 Always learning                                   │
-└──────────────────────────────────────────────────────┘
-```
 
 ---
 
-# 🧑‍💻 Sobre mim
+## 👋 Olá, eu sou Andresson Viana Gaspar
+
+💻 **Técnico em Informática • Desenvolvedor em Formação • Python Enthusiast**
+
+> *"Sempre aprendendo, sempre evoluindo."*
+
+---
+
+## 🚀 Sobre mim
 
 Sou estudante do **2º ano do curso Técnico em Informática no IFCE – Campus Maranguape**.
 
-Tenho interesse em **desenvolvimento de software** e gosto de transformar ideias em soluções através da programação.
+Tenho interesse em **desenvolvimento de software** e gosto de transformar ideias em soluções por meio da programação.
 
-Atualmente estou aprofundando meus conhecimentos em **Python, Java e JavaScript**, estudando conceitos como **Programação Orientada a Objetos**
+Atualmente estudo **Python** e estou expandindo meus conhecimentos em **Java** e **JavaScript**.
+
+Além da programação, sou apaixonado por **anime, games e cultura geek**, que despertaram minha curiosidade por tecnologia e continuam inspirando minha criatividade.
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+* 🧩 Estruturas de Dados
+* 🏗️ Programação Orientada a Objetos
+* ☕ Java
+* 🌐 JavaScript
+* ✨ Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivos
+
+* 🚀 Desenvolver projetos que resolvam problemas reais.
+* 📈 Aprimorar minhas habilidades em desenvolvimento de software.
+* 🤝 Contribuir com projetos Open Source.
+* 💼 Conquistar minha primeira oportunidade como desenvolvedor.
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uese_GasparAnd&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uese_GasparAnd&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌟 Um pouco sobre mim
+
+> *"A disciplina de estudar um pouco todos os dias vale mais do que esperar pelo momento perfeito."*
+
+---
+
+## 📫 Contato
+
+📧 **[andressonvianagaspar@gmail.com](mailto:andressonvianagaspar@gmail.com)**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  Obrigado pela visita ao meu perfil! 🚀
+</p>
