@@ -1,65 +1,96 @@
-<!-- BANNER ANIMADO -->
+<!-- 🎮 BANNER GEEK/GAMER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Andresson%20Viana%20Gaspar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:36BCF7&height=220&section=header&text=ANDRESSON%20VIANA%20GASPAR&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- ANIMAÇÃO DE TEXTO -->
+<!-- 👾 TEXTO ANIMADO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Andresson+Viana+Gaspar;T%C3%A9cnico+em+Inform%C3%A1tica;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Python+Enthusiast;Sempre+aprendendo%2C+sempre+evoluindo." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%91%BE+Gamer+%26+Developer;%F0%9F%92%BB+Python+Enthusiast;%E2%98%95+Java+Developer+in+Training;%F0%9F%8E%AE+Game+Development;%E2%9A%A1+Coding+%E2%80%A2+Anime+%E2%80%A2+Games;%F0%9F%9A%80+Sempre+aprendendo%2C+sempre+evoluindo." />
 </p>
 
 ---
 
-## 👋 Olá, eu sou Andresson Viana Gaspar
+# 👾 Olá, eu sou Andresson Viana Gaspar
 
 💻 **Técnico em Informática • Desenvolvedor em Formação • Python Enthusiast**
 
-> *"Sempre aprendendo, sempre evoluindo."*
+🎮 Apaixonado por **programação, games, anime e tecnologia**.
+
+> `while (aprendendo) { evoluir(); }`
 
 ---
 
-## 🚀 Sobre mim
+## 🧑‍💻 Sobre mim
 
 Sou estudante do **2º ano do curso Técnico em Informática no IFCE – Campus Maranguape**.
 
-Tenho interesse em **desenvolvimento de software** e gosto de transformar ideias em soluções por meio da programação.
+Tenho interesse em **desenvolvimento de software** e gosto de transformar ideias em soluções através da programação.
 
-Atualmente estudo **Python** e estou expandindo meus conhecimentos em **Java** e **JavaScript**.
+Atualmente estudo **Python** e estou expandindo meus conhecimentos em:
+
+* ☕ Java
+* 🌐 JavaScript
+* 🧩 Estruturas de Dados
+* 🏗️ Programação Orientada a Objetos
+* ⚙️ Boas práticas de desenvolvimento
 
 Além da programação, sou apaixonado por **anime, games e cultura geek**, que despertaram minha curiosidade por tecnologia e continuam inspirando minha criatividade.
 
 ---
 
-## 🛠️ Tecnologias
+# 🎮 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,vscode" />
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+# ⚔️ Atualmente estudando
 
-* 🧩 Estruturas de Dados
-* 🏗️ Programação Orientada a Objetos
-* ☕ Java
-* 🌐 JavaScript
-* ✨ Boas práticas de desenvolvimento
+```text
+╔══════════════════════════════════════╗
+║          PLAYER PROGRESS             ║
+╠══════════════════════════════════════╣
+║ 🧩 Estruturas de Dados      [████░] ║
+║ ☕ Java                     [████░] ║
+║ 🌐 JavaScript               [███░░] ║
+║ 🏗️ POO                     [████░] ║
+║ ⚙️ Boas práticas            [███░░] ║
+╚══════════════════════════════════════╝
+```
 
 ---
 
-## 🎯 Objetivos
+# 🕹️ Projetos & Interesses
+
+🎮 **Game Development**
+Criando projetos de jogos e explorando conceitos de desenvolvimento 2D.
+
+🐍 **Python**
+Praticando lógica de programação, estruturas de dados e desenvolvimento de projetos.
+
+☕ **Java**
+Estudando orientação a objetos e desenvolvendo aplicações de console.
+
+🔧 **Arduino**
+Explorando eletrônica, sensores e automação.
+
+---
+
+# 🎯 Missão
 
 * 🚀 Desenvolver projetos que resolvam problemas reais.
-* 📈 Aprimorar minhas habilidades em desenvolvimento de software.
+* 📈 Evoluir constantemente minhas habilidades.
 * 🤝 Contribuir com projetos Open Source.
+* 🎮 Criar meus próprios jogos.
 * 💼 Conquistar minha primeira oportunidade como desenvolvedor.
 
 ---
 
-## 📈 Estatísticas
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uese_GasparAnd&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -68,23 +99,39 @@ Além da programação, sou apaixonado por **anime, games e cultura geek**, que 
 
 ---
 
-## 🌟 Um pouco sobre mim
+# 👾 Geek Zone
 
-> *"A disciplina de estudar um pouco todos os dias vale mais do que esperar pelo momento perfeito."*
+```text
+       ┌───────────────────────────────┐
+       │       ANDRESSON.EXE           │
+       ├───────────────────────────────┤
+       │ STATUS: ONLINE 🟢             │
+       │ MODE:   DEVELOPING 💻         │
+       │ XP:     +∞ 🚀                 │
+       │ CLASS:   DEVELOPER 👾         │
+       └───────────────────────────────┘
+```
+
+🎮 **Games** • 🍥 **Anime** • 💻 **Programming** • 🤖 **Technology**
 
 ---
 
-## 📫 Contato
+# 🌟 Frase
+
+> **"A disciplina de estudar um pouco todos os dias vale mais do que esperar pelo momento perfeito."**
+
+---
+
+# 📫 Contato
 
 📧 **[andressonvianagaspar@gmail.com](mailto:andressonvianagaspar@gmail.com)**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%BE+Thanks+for+visiting+my+profile!;%F0%9F%8E%AE+Keep+coding+%26+keep+gaming!;%F0%9F%9A%80+See+you+in+the+next+commit!" />
 </p>
 
 <p align="center">
-  Obrigado pela visita ao meu perfil! 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:161B22,100:0D1117&height=130&section=footer" width="100%"/>
 </p>
-
