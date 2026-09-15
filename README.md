@@ -1,13 +1,17 @@
-<!-- BANNER ANIMADO -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+
+<!--                     PURPLE GEEK HEADER                         -->
+
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Andresson%20Viana%20Gaspar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0618,45:24103A,75:6C2CE0,100:A855F7&text=ANDRESSON%20VIANA%20GASPAR&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- ANIMAÇÃO DE TEXTO -->
+<!-- TERMINAL TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Andresson+Viana+Gaspar;T%C3%A9cnico+em+Inform%C3%A1tica;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Python+Enthusiast;Sempre+aprendendo%2C+sempre+evoluindo." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%3E+System+Online...;%3E+Developer+Mode%3A+ACTIVE+%F0%9F%9F%A2;%3E+Python+%7C+Java+%7C+JavaScript;%3E+Building+ideas+into+code+%F0%9F%92%BB;%3E+Anime+%7C+Games+%7C+Technology+%F0%9F%8E%AE;%3E+Always+learning.+Always+evolving.+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -34,19 +38,53 @@ Além da programação, sou apaixonado por **anime, games e cultura geek**, que 
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+
+`🐍 Python`   `☕ Java`   `🌐 JavaScript`   `🔧 Git`   `🐙 GitHub`
+
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-* 🧩 Estruturas de Dados
-* 🏗️ Programação Orientada a Objetos
-* ☕ Java
-* 🌐 JavaScript
-* ✨ Boas práticas de desenvolvimento
+<p align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║              PURPLE DEVELOPER MODE              ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  🧩 Estruturas de Dados                          ║
+║  ☕ Programação em Java                          ║
+║  🏗️ Programação Orientada a Objetos             ║
+║  🌐 JavaScript                                   ║
+║  ⚙️ Boas práticas de desenvolvimento            ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+</p>
+
+---
+
+## 🎮 Projetos & Interesses
+
+### 💻 Desenvolvimento
+
+Projetos voltados para **lógica de programação, estruturas de dados e desenvolvimento de software**.
+
+### 🎮 Game Development
+
+Explorando a criação de **jogos 2D**, mapas, personagens, movimentação e sistemas de jogo.
+
+### 🔧 Arduino
+
+Projetos envolvendo **programação, eletrônica, sensores e automação**.
 
 ---
 
@@ -59,16 +97,33 @@ Além da programação, sou apaixonado por **anime, games e cultura geek**, que 
 
 ---
 
-## 📈 Estatísticas
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uese_GasparAnd&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uese_GasparAnd&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Uese_GasparAnd&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Uese_GasparAnd&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🌟 Um pouco sobre mim
+
+```text
+┌──────────────────────────────────────────────┐
+│                 ABOUT ME                     │
+├──────────────────────────────────────────────┤
+│                                              │
+│  💻 Code                                     │
+│  🎮 Games                                    │
+│  👾 Anime                                    │
+│  🚀 Technology                               │
+│  🧠 Learning                                 │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 > *"A disciplina de estudar um pouco todos os dias vale mais do que esperar pelo momento perfeito."*
 
@@ -76,14 +131,18 @@ Além da programação, sou apaixonado por **anime, games e cultura geek**, que 
 
 ## 📫 Contato
 
-📧 **[andressonvianagaspar@gmail.com](mailto:andressonvianagaspar@gmail.com)**
+<p align="center">
+  <strong>📧 andressonvianagaspar@gmail.com</strong>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=%3E+Thanks+for+visiting+my+profile!+%F0%9F%91%BE;%3E+Keep+coding.+Keep+learning.+%F0%9F%92%BB;%3E+See+you+in+the+next+commit!+%F0%9F%9A%80" />
 </p>
 
+<!-- PURPLE FOOTER -->
+
 <p align="center">
-  Obrigado pela visita ao meu perfil! 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D0618,35:24103A,70:6C2CE0,100:A855F7&section=footer" width="100%"/>
 </p>
